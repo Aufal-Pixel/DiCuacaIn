@@ -124,10 +124,11 @@ header .menu {
 
 .hero {
     height: 100vh;
-    background: url("WELCOME\ \(2\).png") no-repeat center center/cover;
+    background: url("WELCOME (2).png") no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 
 }
+
