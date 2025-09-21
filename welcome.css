@@ -70,7 +70,7 @@ header .menu {
 /* Hero Section */
 .hero {
   height: 100vh;
-  background: url('../img/background.jpg') no-repeat center center/cover;
+  background: url('background.jpg') no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -124,9 +124,10 @@ header .menu {
 
 .hero {
     height: 100vh;
-    background: url("image/WELCOME\ \(2\).png") no-repeat center center/cover;
+    background: url("WELCOME\ \(2\).png") no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
+
 }
