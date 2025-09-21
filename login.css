@@ -75,7 +75,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("image/limama.png") no-repeat center center/cover;
+  background: url("limama.png") no-repeat center center/cover;
 }
 
 /* Overlay biar form lebih jelas */
@@ -145,4 +145,5 @@ body::before {
 
 .btn-login:hover {
   background: #0056b3;
+
 }
