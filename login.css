@@ -147,3 +147,10 @@ body::before {
   background: #0056b3;
 
 }
+
+@media (max-width: 768px) {
+  body {
+    background: lightblue;
+    font-size: 14px;
+}
+
